@@ -73,9 +73,9 @@
 		<key>xcode.syntax.character</key>
 		<string>0.0 0.6 0.0 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.0 0.6 0.0 1</string>
+		<string>0.0 0.4666666666666667 0.0 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.0 0.6 0.0 1</string>
+		<string>0.0 0.4666666666666667 0.0 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.0 0.7333333333333333 0.0 1</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -83,9 +83,9 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.0 0.4666666666666667 0.0 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.0 0.8666666666666667 0.0 1</string>
+		<string>0.0 0.6 0.0 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.0 0.8666666666666667 0.0 1</string>
+		<string>0.0 0.6 0.0 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.0 0.4666666666666667 0.0 1</string>
 		<key>xcode.syntax.identifier.function.system</key>

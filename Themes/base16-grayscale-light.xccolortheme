@@ -73,9 +73,9 @@
 		<key>xcode.syntax.character</key>
 		<string>0.6 0.6 0.6 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.3215686274509804 0.3215686274509804 0.3215686274509804 1</string>
+		<string>0.6705882352941176 0.6705882352941176 0.6705882352941176 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.3215686274509804 0.3215686274509804 0.3215686274509804 1</string>
+		<string>0.6705882352941176 0.6705882352941176 0.6705882352941176 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.4549019607843137 0.4549019607843137 0.4549019607843137 1</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -83,9 +83,9 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.6274509803921569 0.6274509803921569 0.6274509803921569 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.1450980392156863 0.1450980392156863 0.1450980392156863 1</string>
+		<string>0.40784313725490196 0.40784313725490196 0.40784313725490196 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.1450980392156863 0.1450980392156863 0.1450980392156863 1</string>
+		<string>0.40784313725490196 0.40784313725490196 0.40784313725490196 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.6274509803921569 0.6274509803921569 0.6274509803921569 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
@@ -109,7 +109,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.1450980392156863 0.1450980392156863 0.1450980392156863 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.3686274509803922 0.3686274509803922 0.3686274509803922 1</string>
+		<string>0.5254901960784314 0.5254901960784314 0.5254901960784314 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.5568627450980392 0.5568627450980392 0.5568627450980392 1</string>
 		<key>xcode.syntax.url</key>
