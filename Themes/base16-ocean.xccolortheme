@@ -17,7 +17,7 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.8745098039215686 0.8823529411764706 0.9098039215686274 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.396078431372549 0.45098039215686275 0.49411764705882355 1</string>
+	<string>0.30980392156862746 0.3568627450980392 0.4 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.6392156862745098 0.7450980392156863 0.5490196078431373 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
