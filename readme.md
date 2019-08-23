@@ -7,8 +7,8 @@ See the [Base16 repository](https://github.com/chriskempson/base16) for more inf
 
 Here are two examples, using Tomorrow and Tomorrow Night:
 
-![Base16 Tomorrow Night](https://raw.github.com/kreeger/base16-xcode/master/Images/tomorrow-night.png)
-![Base16 Tomorrow](https://raw.github.com/kreeger/base16-xcode/master/Images/tomorrow.png)
+![Base16 Tomorrow Night](https://github.com/kreeger/base16-xcode/blob/master/Images/tomorrow-night.png)
+![Base16 Tomorrow](https://github.com/kreeger/base16-xcode/blob/master/Images/tomorrow.png)
 
 ## Installation
 
