@@ -1,6 +1,8 @@
-# Base16 for Xcode (8+)
+# Base16 for Xcode
 
-This template allows the Base16 builder to create Base16 color themes for Xcode 8+.
+_Now updated for Xcode 11!_
+
+This template allows the Base16 builder to create Base16 color themes for Xcode 8 and up.
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 
 Here are two examples, using Tomorrow and Tomorrow Night:
