@@ -87,11 +87,11 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.9529412 0.9098039 0.46666667 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.4 0.6901961 1 1</string>
+		<string>0.9882353 0.5529412 0.15686275 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.4 0.6901961 1 1</string>
+		<string>0.9882353 0.5529412 0.15686275 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.9529412 0.9098039 0.46666667 1</string>
+		<string>0.4 0.6901961 1 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.4 0.6901961 1 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -99,9 +99,9 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.05490196 0.9411765 0.9411765 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>1 0.25882354 0.25882354 1</string>
+		<string>0.9529412 0.9098039 0.46666667 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.9882353 0.5529412 0.15686275 1</string>
+		<string>0.9529412 0.9098039 0.46666667 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>1 0.25882354 0.25882354 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
@@ -119,7 +119,7 @@
 		<key>xcode.syntax.string</key>
 		<string>0.34901962 0.94509804 0.4627451 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.4 0.6901961 1 1</string>
+		<string>0.9882353 0.5529412 0.15686275 1</string>
 	</dict>
 </dict>
 </plist>

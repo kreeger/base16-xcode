@@ -91,7 +91,7 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0 0.6 0 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0 0.46666667 0 1</string>
+		<string>0 0.6 0 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0 0.6 0 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -101,7 +101,7 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>0 0.46666667 0 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0 0.6 0 1</string>
+		<string>0 0.46666667 0 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0 0.46666667 0 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
