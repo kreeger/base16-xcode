@@ -3,123 +3,123 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0.09411765 0.09411765 0.09411765 1</string>
+	<string>0.09411764705882353 0.09411764705882353 0.09411764705882353 1</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.4862745 0.6862745 0.7607843 1</string>
+	<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.09411765 0.09411765 0.09411765 1</string>
+	<string>0.09411764705882353 0.09411764705882353 0.09411764705882353 1</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.972549 0.972549 0.972549 1</string>
+	<string>0.9725490196078431 0.9725490196078431 0.9725490196078431 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.84705883 0.84705883 0.84705883 1</string>
+	<string>0.8470588235294118 0.8470588235294118 0.8470588235294118 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.6313726 0.70980394 0.42352942 1</string>
+	<string>0.6313725490196078 0.7098039215686275 0.4235294117647059 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
-	<string>0.972549 0.972549 0.972549 1</string>
+	<string>0.9725490196078431 0.9725490196078431 0.9725490196078431 1</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.72156864 0.72156864 0.72156864 1</string>
+	<string>0.7215686274509804 0.7215686274509804 0.7215686274509804 1</string>
 	<key>DVTMarkupTextEmphasisColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.AppleSystemUIFontItalic - 13.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>0.15686275 0.15686275 0.15686275 0.7</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTMarkupTextLinkFont</key>
 	<string>.AppleSystemUIFont - 13.0</string>
 	<key>DVTMarkupTextNormalColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTMarkupTextNormalFont</key>
 	<string>.AppleSystemUIFont - 13.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
-	<string>0.15686275 0.15686275 0.15686275 0.5</string>
+	<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.AppleSystemUIFont - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontEmphasized - 13.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.972549 0.972549 0.972549 1</string>
+	<string>0.9725490196078431 0.9725490196078431 0.9725490196078431 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>0.84705883 0.84705883 0.84705883 1</string>
+	<string>0.8470588235294118 0.8470588235294118 0.8470588235294118 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.9098039 0.9098039 0.9098039 1</string>
+	<string>0.9098039215686274 0.9098039215686274 0.9098039215686274 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.15686275 0.15686275 0.15686275 1</string>
+	<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.34509805 0.34509805 0.34509805 1</string>
+	<string>0.34509803921568627 0.34509803921568627 0.34509803921568627 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.84705883 0.84705883 0.84705883 1</string>
+	<string>0.8470588235294118 0.8470588235294118 0.8470588235294118 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.72156864 0.72156864 0.72156864 1</string>
+		<string>0.7215686274509804 0.7215686274509804 0.7215686274509804 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.72156864 0.72156864 0.72156864 1</string>
+		<string>0.7215686274509804 0.7215686274509804 0.7215686274509804 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.7294118 0.54509807 0.6862745 1</string>
+		<string>0.7294117647058823 0.5450980392156862 0.6862745098039216 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.4862745 0.6862745 0.7607843 1</string>
+		<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.96862745 0.7921569 0.53333336 1</string>
+		<string>0.9686274509803922 0.792156862745098 0.5333333333333333 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.96862745 0.7921569 0.53333336 1</string>
+		<string>0.9686274509803922 0.792156862745098 0.5333333333333333 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.96862745 0.7921569 0.53333336 1</string>
+		<string>0.9686274509803922 0.792156862745098 0.5333333333333333 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.4862745 0.6862745 0.7607843 1</string>
+		<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.4862745 0.6862745 0.7607843 1</string>
+		<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.5254902 0.75686276 0.7254902 1</string>
+		<string>0.5254901960784314 0.7568627450980392 0.7254901960784313 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.5254902 0.75686276 0.7254902 1</string>
+		<string>0.5254901960784314 0.7568627450980392 0.7254901960784313 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.96862745 0.7921569 0.53333336 1</string>
+		<string>0.9686274509803922 0.792156862745098 0.5333333333333333 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.96862745 0.7921569 0.53333336 1</string>
+		<string>0.9686274509803922 0.792156862745098 0.5333333333333333 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.67058825 0.27450982 0.25882354 1</string>
+		<string>0.6705882352941176 0.27450980392156865 0.25882352941176473 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.67058825 0.27450982 0.25882354 1</string>
+		<string>0.6705882352941176 0.27450980392156865 0.25882352941176473 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.7294118 0.54509807 0.6862745 1</string>
+		<string>0.7294117647058823 0.5450980392156862 0.6862745098039216 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.4862745 0.6862745 0.7607843 1</string>
+		<string>0.48627450980392156 0.6862745098039216 0.7607843137254902 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.15686275 0.15686275 0.15686275 1</string>
+		<string>0.1568627450980392 0.1568627450980392 0.1568627450980392 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.5254902 0.75686276 0.7254902 1</string>
+		<string>0.5254901960784314 0.7568627450980392 0.7254901960784313 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.6313726 0.70980394 0.42352942 1</string>
+		<string>0.6313725490196078 0.7098039215686275 0.4235294117647059 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.8627451 0.5882353 0.3372549 1</string>
+		<string>0.8627450980392157 0.5882352941176471 0.33725490196078434 1</string>
 	</dict>
 </dict>
 </plist>
